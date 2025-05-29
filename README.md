@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there 👋, I'm Abhinav Yadav
 
-<!--
-**Abhinavyadav001/Abhinavyadav001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a passionate developer who knows nothing (but learning fast).
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on: [Weather-Based Music Recommender](#)
+- 🌱 I’m currently learning: Full Stack Web Development
+- 👯 I’m looking to collaborate on: Open Source Projects
+- 💬 Ask me about: JavaScript, React, Firebase
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/abhinav-yadav-033a3525b/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
+
+## 📊 GitHub Stats
+![Jon's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonSnow007&show_icons=true&theme=radical)
